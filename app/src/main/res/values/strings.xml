@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TiendaAppfc</string>
+    <string name="txt_titulo_inicio">Inicio de sesión</string>
+    <string name="hint_correo">Escriba su correo</string>
+    <string name="hint_password">Escriba su contraseña</string>
+    <string name="txt_btn_iniciar">Ingresar</string>
+    <string name="txt_btn_registrar">Registrar</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_contraseña">Contraseña</string>
+    <string name="txt_titulo_listado">Listado de productos</string>
+    <string name="txt_nombre_producto">Detalle: %1s</string>
+    <string name="txt_agg_producto">Agregar producto</string>
+    <string name="txt_nombre_form">Escriba el nombre del producto</string>
+    <string name="txt_precio_form">Escriba el precio del producto</string>
+    <string name="txt_desc_form">Escriba la descripcion del producto</string>
+    <string name="btn_agregar_form">Agregar</string>
+    <string name="btn_editar_det">Editar</string>
+    <string name="btn_eliminar_det">Eliminar</string>
+    <string name="tx_formulario_editar">Editar producto</string>
+    <string name="txt_registrar_usuario">Registrar Usuario</string>
+    <string name="txt_lista_usuarios">Listado de usuarios</string>
+    <string name="txt_nombre_usuario">Nombre</string>
+    <string name="txt_correo_usuario">Correo</string>
+    <string name="txt_contra_usuario">Contraseña</string>
+    <string name="txt_urlfoto_usuario">Url foto</string>
+    <string name="btn_registrar_usuario">Registrar</string>
+    <string name="txt_nombre_preferencia">Preferencias</string>
+    <string name="txt_preferencia_login">Login</string>
+    <string name="txt_mi_cerrar_sesion">Cerrar sesion</string>
+</resources>
